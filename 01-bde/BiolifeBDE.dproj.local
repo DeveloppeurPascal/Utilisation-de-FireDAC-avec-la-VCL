@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/10/16 10:53:16.000.134,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/10/16 10:53:57.000.558,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\20181016-webinaire-fmx-vcl\01-bde\Unit1.pas</Transaction>
+    <Transaction>2018/10/16 10:53:57.000.558,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\20181016-webinaire-fmx-vcl\01-bde\Unit1.dfm</Transaction>
+    <Transaction>2018/10/16 10:54:08.000.596,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Project1.dproj=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\20181016-webinaire-fmx-vcl\01-bde\BiolifeBDE.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
